@@ -1,5 +1,4 @@
 #Grunt Build Files
 node_modules/
 gruntfile.js
-package.json
 dploy.yaml
