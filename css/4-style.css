@@ -144,7 +144,7 @@ width: 65%;
 
 
 }
-.drink { border-top:solid 2px  rgba(200,200,200,.1);  position: relative;background: url('../img/2.jpg') right bottom; background-size: cover;  z-index: 1;}
+.drink { border-top:solid 2px  rgba(200,200,200,.1);  position: relative;background: url('../img/2.jpg') right bottom; background-size: 100% 100%;  z-index: 1;}
 .buy { border-top: solid 2px rgba(200,200,200,.1); position: relative;background: url('../img/3.jpg'); background-size: cover; 
  z-index: 1;
  /* box-shadow: 0px 0px 20px .5px ; */
